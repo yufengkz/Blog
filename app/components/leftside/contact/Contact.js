@@ -15,7 +15,7 @@ export default class Contact extends React.Component{
                         <a className="ico-phone" href="javascript:;"></a>
                         <div className="class">
                             <h3>Phone</h3>
-                            <p>186-0090-1690</p>
+                            <p>18600901690</p>
                         </div>
                     </li>
                     <li>
@@ -29,14 +29,14 @@ export default class Contact extends React.Component{
                         <a className="ico-web" href="javascript:;"></a>
                         <div className="class">
                             <h3>Web</h3>
-                            <p>https://github.com/yufengkz</p>
+                            <p><a href="https://github.com/yufengkz">https://github.com/yufengkz</a></p>
                         </div>
                     </li>
                     <li>
                         <a className="ico-blog" href="javascript:;"></a>
                         <div className="class">
                             <h3>Blog</h3>
-                            <p>xxxxxxxxxaaxxx</p>
+                            <p><a href="https://yufengkz.github.io/static">https://yufengkz.github.io/static</a></p>
                         </div>
                     </li>
                 </ul>
