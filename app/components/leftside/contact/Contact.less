@@ -1,0 +1,69 @@
+.clearfix() {
+	*zoom: 1;
+	&:before,
+	&:after {
+		display: table;
+		content: "";
+	}
+	&:after {
+		clear: both;
+	}
+}
+.contact {
+	width: 260px;
+	border-bottom: 1px solid #d1d3d4;
+	margin: 0 auto;
+	margin-top: 20px;
+	padding-bottom: 20px;
+	h2 {
+		font-size: 20px;
+		color: #fff;
+		text-align: center;
+		font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	}
+	ul {
+		margin-top: 20px;
+	}
+	li {
+		margin-top: 10px;
+		.clearfix();
+		a {
+			float: left;
+			width: 50px;
+			height: 50px;
+			margin-top: 5px;
+		}
+		a.ico-phone {
+			background: url(../../../images/ico-phone2.png) no-repeat center;
+		}
+		a.ico-email {
+			background: url(../../../images/ico-email2.png) no-repeat center;
+		}
+		a.ico-web {
+			background: url(../../../images/ico-web2.png) no-repeat center;
+		}
+		a.ico-blog {
+			background: url(../../../images/ico-blog.png) no-repeat center;
+		}
+		.class {
+			float: left;
+			width: 200px;
+			//border-bottom: 1px solid #d1d3d4;
+			margin-left: 10px;
+		}
+		h3 {
+			font-size: 20px;
+			color: #fff;
+			font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+			margin-top: 5px;
+		}
+		p {
+			margin-top: 5px;
+			color: #fff;
+			font-size: 14px;
+			line-height: 20px;
+			font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+			padding-bottom: 5px;
+		}
+	}
+}

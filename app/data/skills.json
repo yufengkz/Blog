@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "HTML(5) | CSS(3)",
+    "content": "熟悉HTML，能够书写语义合理、结构清晰、易于维护的HTML；理解W3C标准，能够还原视觉设计，兼容业界承认的主流浏览器；了解HTML5和CSS3，能够运用在实际项目中；了解Bootstrap，能够运用到项目中",
+    "degree": "熟悉"
+  },
+  {
+    "id": 2,
+    "title": "JavaScript",
+    "content": "在熟悉 ECMAscript5 的基础上了解 ECMAscript6，并能够在项目中使用ES6，工作中熟练使用 jQuery、Zepto、animation 第三方类库，Swiper、scroll 等插件",
+    "degree": "了解"
+  },
+  {
+    "id": 3,
+    "title": "SeaJS | RequireJS",
+    "content": "了解SeaJS、RequireJS等模块化库的应用",
+    "degree": "了解"
+  },
+  {
+    "id": 4,
+    "title": "Vue",
+    "content": "了解Vue，运用其写过一些小demo",
+    "degree": "了解"
+  },
+  {
+    "id": 5,
+    "title": "Angular",
+    "content": "了解Angular，能够运用在实际的项目中",
+    "degree": "了解"
+  },
+  {
+    "id": 6,
+    "title": "React",
+    "content": "熟悉React，本blog就是用React开发的，熟练使用其props和state",
+    "degree": "熟悉"
+  },
+  {
+    "id": 6,
+    "title": "NodeJS",
+    "content": "了解 NodeJS,可使用NodeJS,以及express框架搭建后台，了解mongDB以及mongoose搭建",
+    "degree": "了解"
+  },
+  {
+    "id": 7,
+    "title": "Git | SVN",
+    "content": "了解Git、SVN版本管理工具的使用",
+    "degree": "了解"
+  },
+  {
+    "id": 8,
+    "title": "Webpack | Gulp",
+    "content": "了解Webpack、Gulp等自动化工具，能用其构建实际项目",
+    "degree": "了解"
+  }
+]

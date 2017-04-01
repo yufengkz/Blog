@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "第一次发文",
+    "introduction": "说一下感受...",
+    "content": " 灰常鸡冻，嗯，说完了...  ^_^",
+    "author": "yufeng",
+    "createAt":"2017-03-27",
+    "category": "React"
+  },
+  {
+    "id": 2,
+    "title": "Redux原理",
+    "introduction": "说一下Redux的原理...",
+    "content": " 组件发布(dispath函数)行为(action)到仓库(store)，由管理员(reducers)改变状态树(state tree)的状态，其他组件订阅状态改变事件；  store接收两个参数，行为和旧状态 -> 通过reducer改变state tree，其他组件接收改变的状态。",
+    "author": "yufeng",
+    "createAt":"2017-04-01",
+    "category": "React"
+  },
+  {
+    "id": 3,
+    "title": "React主要的原理",
+    "introduction": "Virtual DOM 虚拟DOM...",
+    "content": " 传统的web应用，操作DOM一般是直接更新操作的，但是我们知道DOM更新通常是比较昂贵的。而React为了尽可能减少对DOM的操作，提供了一种不同的而又强大的方式来更新DOM，代替直接的DOM操作。就是Virtual DOM,一个轻量级的虚拟的DOM，就是React抽象出来的一个对象，描述dom应该什么样子的，应该如何呈现。通过这个Virtual DOM去更新真实的DOM，由这个Virtual DOM管理真实DOM的更新。 为什么通过这多一层的Virtual DOM操作就能更快呢？ 这是因为React有个diff算法，更新Virtual DOM并不保证马上影响真实的DOM，React会等到事件循环结束，然后利用这个diff算法，通过当前新的dom表述与之前的作比较，计算出最小的步骤更新真实的DOM。",
+    "author": "yufeng",
+    "createAt":"2017-03-30",
+    "category": "React"
+  },
+  {
+    "id": 4,
+    "title": "Components 组件",
+    "introduction": "说一下Redux的原理...",
+    "content": " 在DOM树上的节点被称为元素，在这里则不同，Virtual DOM上称为commponent。Virtual DOM的节点就是一个完整抽象的组件，它是由commponents组成。component 的使用在 React 里极为重要, 因为 components 的存在让计算 DOM diff 更高效。",
+    "author": "yufeng",
+    "createAt":"2017-03-29",
+    "category": "React"
+  },
+  {
+    "id": 5,
+    "title": "React分析",
+    "introduction": "React和其他一些js框架相比，React怎样，比如Backbone、Angular等",
+    "content": " 1.React不是一个MVC框架，它是构建易于可重复调用的web组件，侧重于UI, 也就是view层。2.其次React是单向的从数据到视图的渲染，非双向数据绑定。3.不直接操作DOM对象，而是通过虚拟DOM通过diff算法以最小的步骤作用到真实的DOM上。4.不便于直接操作DOM，大多数时间只是对 virtual DOM 进行编程",
+    "author": "yufeng",
+    "createAt":"2017-03-28",
+    "category": "React"
+  }
+]
