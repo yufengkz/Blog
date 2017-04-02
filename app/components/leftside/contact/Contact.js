@@ -12,28 +12,28 @@ export default class Contact extends React.Component{
                 <h2>Contact</h2>
                 <ul>
                     <li>
-                        <a className="ico-phone" href="javascript:;"></a>
+                        <a className="ico-phone ico" href="javascript:;"></a>
                         <div className="class">
                             <h3>Phone</h3>
                             <p>18600901690</p>
                         </div>
                     </li>
                     <li>
-                        <a className="ico-email" href="javascript:;"></a>
+                        <a className="ico-email ico" href="javascript:;"></a>
                         <div className="class">
                             <h3>Email</h3>
                             <p>yufeng.org@gmail.com</p>
                         </div>
                     </li>
                     <li>
-                        <a className="ico-web" href="javascript:;"></a>
+                        <a className="ico-web ico" href="javascript:;"></a>
                         <div className="class">
-                            <h3>Web</h3>
+                            <h3>GitHub</h3>
                             <p><a href="https://github.com/yufengkz">https://github.com/yufengkz</a></p>
                         </div>
                     </li>
                     <li>
-                        <a className="ico-blog" href="javascript:;"></a>
+                        <a className="ico-blog ico" href="javascript:;"></a>
                         <div className="class">
                             <h3>Blog</h3>
                             <p><a href="https://yufengkz.github.io/static">https://yufengkz.github.io/static</a></p>

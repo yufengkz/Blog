@@ -17,15 +17,19 @@ export default class Contact extends React.Component{
                     </li>
                     <li>
                         <h3>CSS(3)</h3>
-                        <p>熟悉</p>
+                        <p>了解</p>
                     </li>
                     <li>
                         <h3>Bootstrap</h3>
                         <p>熟悉</p>
                     </li>
                     <li>
+                        <h3>JavaScript</h3>
+                        <p>了解</p>
+                    </li>
+                    <li>
                         <h3>JQuery</h3>
-                        <p>熟悉</p>
+                        <p>了解</p>
                     </li>
                     <li>
                         <h3>React</h3>

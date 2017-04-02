@@ -8,6 +8,7 @@ import $ from 'jquery'
 
 var img1 = require('../../../images/wxbg.png')
 var img2 = require('../../../images/clipboard.png')
+var img3 = require('../../../images/react.png')
 
 export default class Detail extends React.Component {
     constructor(props){
@@ -47,6 +48,7 @@ export default class Detail extends React.Component {
                                 <h5>{this.state.article.createAt}</h5>
                                 {this.state.article.id == 1 ? <p style={{width:'500px', height:'440px'}}><img style={{width: '100%', height: '100%'}} src={img1} alt=""/></p> : null}
                                 {this.state.article.id == 2 ? <p style={{width:'740px', height:'440px'}}><img style={{width: '100%', height: '100%'}} src={img2} alt=""/></p> : null}
+                                {this.state.article.id != 1 && this.state.article.id != 2 ? <p style={{width:'740px', height:'440px'}}><img style={{width: '100%', height: '100%'}} src={img3} alt=""/></p> : null}
                                 <p>内容：{this.state.article.content}</p>
                                 <p className="txt_b">作者：{this.state.article.author}</p>
                                 {/*第一个有shadow*/}

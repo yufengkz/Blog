@@ -14,7 +14,7 @@ export default class LeftSide extends React.Component{
             <div className="left-side theme">
                 <Header></Header>
                 <Aboutme></Aboutme>
-                <Skills></Skills>
+                {/*<Skills></Skills>*/}
                 <Contact></Contact>
             </div>
         )

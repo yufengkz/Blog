@@ -7,7 +7,6 @@ export default class Home extends React.Component {
 
     render() {
         let data = require('../../../data/data.json')
-        console.log(data.title)
 
         let lists = []
         /*第一个有shadow*/

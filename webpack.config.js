@@ -1,5 +1,8 @@
 var path = require('path')
+var webpack = require('webpack');
 var HtmlWebpackPlugin = require('html-webpack-plugin')
+// 编译后自动打开浏览器
+var OpenBrowserPlugin = require('open-browser-webpack-plugin');
 module.exports = {
     entry: './app/index.js',
     output: {
@@ -36,8 +39,10 @@ module.exports = {
         ]
     },
     plugins: [
+        new webpack.HotModuleReplacementPlugin(),
         new HtmlWebpackPlugin({
             template: './app/index.html'
-        })
+        }),
+        new OpenBrowserPlugin({ url: 'http://localhost:8080' })
     ]
 }
