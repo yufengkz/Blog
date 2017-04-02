@@ -2,6 +2,8 @@
 
 ## 如果觉得还可以，请麻烦点个小星星
 
+## 在线查看效果： https://yufengkz.github.io/static/
+
 ## 下载到本地查看：
 ```
 git clone https://github.com/yufengkz/Blog.git
