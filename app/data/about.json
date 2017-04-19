@@ -1,0 +1,195 @@
+[
+	{
+		"id": 1,
+		"title": "艺道中国找书画平台开发 - PC",
+		"introduction": "找书画隶属于北京博远同创科技有限公司，找书画作为全国首家书画作品溯源查询平台，专门为艺术品鉴证、备案提供服务，从艺术品源头出发，将艺术品鉴证备案电子数据化，建立艺术品权威的 '身份证'信息，实现书画作品有底可查、有据可依、有证可论，让艺术品行业更加持续、健康、生态发展。",
+		"works": [
+			{
+				"id": 0,
+				"work_introduction": "参与网站、客户端产品前期的规划构思，完善产品概念，参与原型策划与设计"
+		},
+			{
+				"id": 1,
+				"work_introduction": "根据ui设计图使用html/css进行Web端的网页框架搭建、内容制作"
+		},
+			{
+				"id": 2,
+				"work_introduction": "运用HTML5和CSS3等相关技术开发网站、平板电脑等多平台上的前端应用"
+		},
+			{
+				"id": 3,
+				"work_introduction": "优化/简化代码，保持HTML稳定性，提升页面执行效率"
+		},
+			{
+				"id": 4,
+				"work_introduction": "后期代码的调试、bug修复、代码优化并兼容各主流浏览器"
+		},
+			{
+				"id": 5,
+				"work_introduction": "负责项目后期的维护与更新"
+		}
+
+	],
+		"project_address": "http://www.yidaochn.com/", 
+		"skills": "JQuery、JavaScript、Java模板引擎FreeMarker",
+		"author": "yufeng",
+		"date": "2016年6月"
+  },
+	{
+		"id": 2,
+		"title": "艺道中国找书画平台微信版开发 - 微信版",
+		"introduction": "找书画隶属于北京博远同创科技有限公司，找书画作为全国首家书画作品溯源查询平台，专门为艺术品鉴证、备案提供服务，从艺术品源头出发，将艺术品鉴证备案电子数据化，建立艺术品权威的 '身份证'信息，实现书画作品有底可查、有据可依、有证可论，让艺术品行业更加持续、健康、生态发展。",
+		"works": [
+			{
+				"id": 0,
+				"work_introduction": "对UI设计的设计图进行页面制作（css3+html5）"
+		},
+			{
+				"id": 1,
+				"work_introduction": "利用jquery、zepto等完成项目的搭建"
+		},
+			{
+				"id": 2,
+				"work_introduction": "负责与服务端有效对接，实现请求、数据渲染"
+		},
+			{
+				"id": 3,
+				"work_introduction": "优化/简化代码，保持HTML稳定性，提升页面执行效率"
+		},
+			{
+				"id": 4,
+				"work_introduction": "维护及优化网站前端性能，优化前端开发模式和规范"
+		}
+
+	],
+		"project_address": "http://weixin.yidaochn.com/finder/", 
+		"skills": "Zepto、JavaScript、Vue、Swiper、Java模板引擎FreeMarker",
+		"author": "yufeng",
+		"date": "2016年6月"
+  },
+	{
+		"id": 3,
+		"title": "艺道中国艺术家官网 - 微信版",
+		"introduction": "找书画隶属于北京博远同创科技有限公司，找书画作为全国首家书画作品溯源查询平台，专门为艺术品鉴证、备案提供服务，从艺术品源头出发，将艺术品鉴证备案电子数据化，建立艺术品权威的 '身份证'信息，实现书画作品有底可查、有据可依、有证可论，让艺术品行业更加持续、健康、生态发展。",
+		"works": [
+			{
+				"id": 0,
+				"work_introduction": "参与网站、客户端产品前期的规划构思，完善产品概念，参与原型策划与设计"
+		},
+			{
+				"id": 1,
+				"work_introduction": "使用HTML5+CSS3等相关技术进行页面开发和不同手机终端适配开发"
+		},
+			{
+				"id": 2,
+				"work_introduction": "使用swiper进行热门板块与最新板块的切换"
+		},
+			{
+				"id": 3,
+				"work_introduction": "负责与后台人员配合，运用ajax技术请求后台数据到前台页面渲染"
+		},
+			{
+				"id": 4,
+				"work_introduction": "负责各种功能实现与交互"
+		},
+			{
+				"id": 5,
+				"work_introduction": "负责项目后期的维护与更新"
+		}
+
+	],
+		"project_address": "http://weixin.yidaochn.com/yidao/zhao/index", 
+		"skills": "Swiper、JQuery、JavaScript、Java模板引擎FreeMarker",
+		"author": "yufeng",
+		"date": "2017年1月"
+  },
+	{
+		"id": 4,
+		"title": "艺道艺术家藏品展示-艺库 - 微信版",
+		"introduction": "为方便艺术家进行藏品展示，开发一款类似相册功能的web网页，艺术家可根据藏品类别进行上传、管理、展示等功能。",
+		"works": [
+			{
+				"id": 0,
+				"work_introduction": "参与全站构建、原型设计、接口设计"
+		},
+			{
+				"id": 1,
+				"work_introduction": "根据设计图进行Web端的网页框架搭建、内容制作"
+		},
+			{
+				"id": 2,
+				"work_introduction": "运用HTML5和CSS3等相关技术开发网站、平板电脑等多平台上的适用"
+		},
+			{
+				"id": 3,
+				"work_introduction": "负责项目后期的维护与更新"
+		}
+
+	],
+		"project_address": "http://weixin.yidaochn.com/yiku?id=2", 
+		"skills": "Swiper、JQuery、JavaScript、Java模板引擎FreeMarker",
+		"author": "yufeng",
+		"date": "2016年3月"
+  },
+	{
+		"id": 5,
+		"title": "艺道在线拍卖网站开发 - PC",
+		"introduction": "艺道中国隶属于北京博远同创科技有限公司，是集艺术品交易、艺术家服务、艺术机构推广为一体的大型互联网交流平台，为目前艺术品领域最具特色的综合服务型平台。在电子商务飞速发展及互联网+的时代，中国的艺术品行业也受到影响，逐步向电子商务化发展。艺道中国经过大量的数据调研证明在艺术品行业完全可以依照艺术品行业的特色打造全新的移动互联网交易平台。",
+		"works": [
+			{
+				"id": 0,
+				"work_introduction": "参与网站、客户端产品前期的规划构思，完善产品概念，参与原型策划与设计"
+		},
+			{
+				"id": 1,
+				"work_introduction": "根据ui设计图使用 “bootstrap” 进行Web端的网页框架搭建、内容制作"
+		},
+			{
+				"id": 2,
+				"work_introduction": "利用ajax和url地址传参请求不同的后台数据，完成首翔安达数据请求和跳转不同页面"
+		},
+			{
+				"id": 3,
+				"work_introduction": "持续的优化用户体验和页面响应速度，并保证兼容性和执行效率"
+		}
+
+	],
+		"project_address": "http://paimai.yidaochn.com/", 
+		"skills": "JQuery、JavaScript、Java模板引擎FreeMarker",
+		"author": "yufeng",
+		"date": "2015年11月"
+  },
+	{
+		"id": 6,
+		"title": "艺道在线拍卖网站开发 - 微信版",
+		"introduction": "艺道中国隶属于北京博远同创科技有限公司，是集艺术品交易、艺术家服务、艺术机构推广为一体的大型互联网交流平台，为目前艺术品领域最具特色的综合服务型平台。在电子商务飞速发展及互联网+的时代，中国的艺术品行业也受到影响，逐步向电子商务化发展。艺道中国经过大量的数据调研证明在艺术品行业完全可以依照艺术品行业的特色打造全新的移动互联网交易平台。",
+		"works": [
+			{
+				"id": 0,
+				"work_introduction": "根据产品及项目设计，利用HTML、CSS构架页面主页"
+		},
+			{
+				"id": 1,
+				"work_introduction": "负责使用Javascript和zepto完成交互效果的编写"
+		},
+			{
+				"id": 2,
+				"work_introduction": "负责与后台人员配合，利用$http请求渲染数据"
+		},
+			{
+				"id": 3,
+				"work_introduction": "使用iSrol实现直播客部分页面局部滚动、下拉加载数据"
+		},
+			{
+				"id": 4,
+				"work_introduction": "持续的优化用户体验和页面响应速度，并保证兼容性和执行效率"
+		}
+
+	],
+		"project_address": "http://weixin.yidaochn.com/paimai", 
+		"skills": "Zepto、JavaScript、Swiper、Java模板引擎FreeMarker",
+		"author": "yufeng",
+		"date": "2015年11月"
+  }
+
+]
