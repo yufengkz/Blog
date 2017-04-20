@@ -12,15 +12,15 @@ git clone https://github.com/yufengkz/Blog.git
 ```
 1.下载所有依赖包
 ```
-npm install   
+###npm install   
 ```
 2.打开服务器跑起来
 ```
-npm run dev
+###npm run dev
 ```
 3.打包
 ```
-npm run build
+###npm run build
 ```
 
 ## 小手一抖，星星到手  ...
